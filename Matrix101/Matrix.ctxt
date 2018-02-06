@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=Matrix(double[][])
+comment1.params=filePath
+comment1.target=Matrix(java.lang.String)
+comment2.params=
+comment2.target=Matrix\ transpose()
+comment3.params=test
+comment3.target=Matrix\ add(Matrix)
+comment4.params=test
+comment4.target=Matrix\ sub(Matrix)
+comment5.params=a
+comment5.target=Matrix\ mult(double)
+comment6.params=test
+comment6.target=Matrix\ mult(Matrix)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=test
+comment8.target=boolean\ equals(Matrix)
+numComments=9

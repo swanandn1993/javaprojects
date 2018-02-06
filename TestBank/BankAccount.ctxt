@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=bal
+comment0.target=BankAccount(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BankAccount\r\n
+comment1.params=obj
+comment1.target=void\ setOverdraftAccount(BankAccount)
+comment2.params=
+comment2.target=java.lang.String\ getAccountNumber()
+comment3.params=
+comment3.target=double\ getBalance()
+comment4.params=amt
+comment4.target=void\ deposit(double)
+comment5.params=amt
+comment5.target=void\ withdraw(double)
+comment6.params=amt\ obj
+comment6.target=void\ transfer(double,\ BankAccount)
+numComments=7
